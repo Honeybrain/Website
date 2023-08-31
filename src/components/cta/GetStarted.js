@@ -25,9 +25,9 @@ const DecoratorBlob2 = tw(SvgDecoratorBlob1)`absolute top-0 right-0 w-80 h-80 tr
 export default ({
   text = "Developers all over the world are happily using Honeybrain.",
   primaryLinkText = "Get Started",
-  primaryLinkUrl = "http://timerse.com",
+  primaryLinkUrl = "https://github.com/Honeybrain/Installer",
   secondaryLinkText = "Contact Us",
-  secondaryLinkUrl = "http://google.com",
+  secondaryLinkUrl = "mailto:valentin.charbonnier@epitech.eu",
   pushDownFooter = true
 }) => {
   return (

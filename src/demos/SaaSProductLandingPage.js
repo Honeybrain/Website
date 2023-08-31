@@ -12,7 +12,7 @@ import Testimonial from "components/testimonials/TwoColumnWithImageAndRating.js"
 import FAQ from "components/faqs/SingleCol.js";
 import GetStarted from "components/cta/GetStarted";
 import Footer from "components/footers/FiveColumnWithBackground.js";
-import getStartedImg from "images/installer_honey.PNG";
+import getStartedImg from "images/dashboard.png";
 import macgetStartedImg from "images/installer_honey.PNG";
 import prototypeIllustrationImageSrc from "images/prototype-illustration.svg";
 import SimpleContactUs from "components/forms/SimpleContactUs";
@@ -122,7 +122,7 @@ export default () => {
               "https://blog.learnenglishmate.com/wp-content/uploads/2021/08/Depositphotos_6570570_l-2015-1024x682-1.jpg",
             heading: "The Past !",
             quote:
-              "Un installeur python permettant d'installer l'honeypot et de se créer un compte pour avoir accès au dashboard administrateur. Un dashboard fonctionnel pouvant bloquer des IP, modulable et disponible en Français et en Anglais",
+              "A python installer to install the honeypot and create an account to access the administrator dashboard. A functional, scalable dashboard that can block IPs, available in English and French.",
             customerName: "what we have done",
             customerTitle: "developed features."
           },
@@ -132,7 +132,7 @@ export default () => {
               "https://madsciblog.tradoc.army.mil/wp-content/uploads/2018/05/The-Future-2.jpg",
             heading: "The Future !",
             quote:
-              "Nous travaillons en ce moment sur les nombreuses mises à jour qu'attent le dashboard pour se parfaire ainsi qu'a la refonte GRPC de notre projet.",
+              "We're currently working on the many updates the dashboard needs to perfect itself, as well as the GRPC overhaul of our project.",
             customerName: "We keep you in touch",
             customerTitle: "future features"
           }
