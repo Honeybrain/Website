@@ -47,7 +47,7 @@ export default ({
       Designed & Developed by <span tw="text-primary-500">Epitech Students.</span>
     </>
   ),
-  description = `FUENTES Axel (Frontend), POLLEDRI Antoine (Frontend), BOLLA François (Installer/Honeypot), Charbonnier Valentin (Installer/Honeypot), ROCO Adrien (Installer/Honeypot), LEBOBE PAUL (Backend), LUCAS Romain (Backend), TITEUX Alexandre (Backend), `,
+  description = `FUENTES Axel (Frontend), POLLEDRI Antoine (Frontend), BOLLA François (Installer/Honeypot), CHARBONNIER Valentin (Installer/Honeypot), ROCOURT Adrien (Honeypot/Deployment), LEBOBE Paul (Backend), LUCAS Romain (Backend), TITEUX Alexandre (Backend)`,
   primaryButtonText = "Learn More",
   primaryButtonUrl = "https://timerse.com",
   imageSrc = TeamIllustrationSrc,
